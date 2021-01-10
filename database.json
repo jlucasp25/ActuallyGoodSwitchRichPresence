@@ -1,0 +1,19 @@
+{
+  "games": {
+    "Monster Hunter Rise - DEMO": {
+      "image_code": "mhrd",
+      "title": "Monster Hunter Rise - DEMO",
+      "description": "CAPCOM"
+    },
+    "51 Worldwide Games": {
+      "image_code": "51wg",
+      "title": "51 Worldwide Games",
+      "description": "Nintendo"
+    },
+    "Super Mario 3D All-Stars": {
+      "image_code": "sm3as",
+      "title": "Super Mario 3D All-Stars",
+      "description": "Nintendo"
+    }
+  }
+}
