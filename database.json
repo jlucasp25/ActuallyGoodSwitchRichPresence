@@ -14,6 +14,51 @@
       "image_code": "sm3as",
       "title": "Super Mario 3D All-Stars",
       "description": "Nintendo"
+    },
+    "Super Smash Bros. Ultimate": {
+      "image_code": "ssbu",
+      "title": "Super Smash Bros. Ultimate",
+      "description": "Nintendo"
+    },
+    "Super Mario Maker 2": {
+      "image_code": "smm2",
+      "title": "Super Mario Maker 2",
+      "description": "Nintendo"
+    },
+    "Mario Kart 8 Deluxe": {
+      "image_code": "mk8dx",
+      "title": "Mario Kart 8 Deluxe",
+      "description": "Nintendo"
+    },
+    "Luigi's Mansion 3": {
+      "image_code": "lm3",
+      "title": "Luigi's Mansion 3",
+      "description": "Nintendo"
+    },
+    "Paper Mario: The Origami King": {
+      "image_code": "pmok",
+      "title": "Paper Mario: The Origami King",
+      "description": "Nintendo"
+    },
+    "Super Mario Odyssey": {
+      "image_code": "smo",
+      "title": "Super Mario Odyssey",
+      "description": "Nintendo"
+    },
+    "Pokémon Sword": {
+      "image_code": "pkmsw",
+      "title": "Pokémon Sword",
+      "description": "Nintendo, The Pokémon Company"
+    },
+    "Pokémon Shield": {
+      "image_code": "pkmsh",
+      "title": "Pokémon Shield",
+      "description": "Nintendo, The Pokémon Company"
+    },
+    "Nintendo Switch": {
+      "image_code": "nsw",
+      "title": "Nintendo Switch",
+      "description": "Nintendo"
     }
   }
 }
