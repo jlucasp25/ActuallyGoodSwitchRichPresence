@@ -20,8 +20,7 @@ class PresenceWrapper:
             print('[!] Invalid Game ID.')
             return
         game = self.games_database[game_id]
-        self.client_instance.update(details=game['title'], state=game['description'], small_image=game['image_code'],
-                                    large_image=game['image_code'])
+        self.client_instance.update(details=game['title'], state=game['description'], small_image='nsw',large_image=game['image_code'])
         if DEBUG:
             print(
                 f'[DEBUG] Setting RPC to values: GAME/DETAILS -> {game["title"]} | STATE/DESCRIPTION -> {game["description"]} | IMAGES -> {game["image_code"]} ')

@@ -1,5 +1,10 @@
 {
   "games": {
+    "BRAVELY DEFAULT II": {
+      "image_code": "bdii",
+      "title": "BRAVELY DEFAULT II",
+      "description": "Square Enix"
+    },
     "Monster Hunter Rise - DEMO": {
       "image_code": "mhrd",
       "title": "Monster Hunter Rise - DEMO",
@@ -54,6 +59,11 @@
       "image_code": "pkmsh",
       "title": "Pokémon Shield",
       "description": "Nintendo, The Pokémon Company"
+    },
+    "Xenoblade Chronicles 2": {
+      "image_code": "xc2",
+      "title": "Xenoblade Chronicles 2",
+      "description": "Nintendo, MONOLITHSOFT"
     },
     "Nintendo Switch": {
       "image_code": "nsw",
