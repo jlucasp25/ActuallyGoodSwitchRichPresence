@@ -1,28 +1,29 @@
-**ActuallyGoodSwitchRichPresence**
+# ActuallyGoodSwitchRichPresence
 
-An app to display Switch games on the Discord Rich Presence service.
-<hr/>
-Current version: 0.1a
-<hr/>
-<b>Requirements:</b>
+An application to display Nintendo Switch games on the Discord Rich Presence service. 
 
-<ul>
-<li>Python 3 and Tkinter</li>
-<li>Discord (obviously)</li>
-</ul>
-NOTE: macOS comes bundled with a deprecated version of Tkinter. To use this app you need to install Python directly from https://python.org/. The Python installers from <i>brew</i> mantain the deprecated Tkinter version.
+It contains a graphical interface to choose the game. 
 
-Tested on macOS 11.0.1 w/ Python 3.9.1
-<hr/>
+All the supported games are included in the database.json file.
 
-<b>Install & Run:</b>
-<ul>
-    <li>1. Clone the repository.</li>
-    <li>2. <i>pip install -r requirements.txt</i> </li>
-    <li>2. <i>python3 main.py</i> </li>
-</ul>
-<hr/>
-<b>Future changes:</b>
+Because of the way Discord RP works, the game images need to be uploaded manually.
+
+### Requirements
+- Python
+- Tkinter
+- Discord
+
+### Compatibility Notes
+
+macOS comes bundled with a deprecated version of Tkinter. To use this app you need to install Python directly from https://python.org/. The Python installers from <i>brew</i> mantain the deprecated Tkinter version.
+
+(Tested on macOS 11.0.1 w/ Python 3.9.1)
+
+### Instructions
+-     pip install -r requirements.txt
+      python3 main.py
+
+### Future changes
 <ul>
 <li>Raise exception when the app can't connect to Discord.</li>
 <li>Improved GUI.</li>
