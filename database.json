@@ -65,6 +65,11 @@
       "title": "Xenoblade Chronicles 2",
       "description": "Nintendo, MONOLITHSOFT"
     },
+    "Metroid Dread": {
+      "image_code": "mtd",
+      "title": "Metroid Dread",
+      "description": "Nintendo, MercurySteam"
+    },
     "Nintendo Switch": {
       "image_code": "nsw",
       "title": "Nintendo Switch",
