@@ -1,3 +1,8 @@
+## Note
+### Not maintained anymore as there are better ways to implement this using nxapi and the NSO API.
+
+------------------------------------------------------------------------------------------------
+
 # ActuallyGoodSwitchRichPresence
 
 An application to display Nintendo Switch games on the Discord Rich Presence service. 
